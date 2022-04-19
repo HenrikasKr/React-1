@@ -1,0 +1,14 @@
+table {
+  margin-top: 20px;
+  width: 100%;
+  border: 2px black solid;
+  border-collapse: collapse;
+  text-align: center; 
+  vertical-align: middle;
+}
+
+th {
+  width: 17%;
+  background-color: grey;
+  border-collapse: collapse;
+}

@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "task": "Sleep",
+    "status": false
+  },
+  {
+    "id": 2,
+    "task": "Workout",
+    "status": false
+  },
+  {
+    "id": 3,
+    "task": "Sleep",
+    "status": false
+  },
+  {
+    "id": 4,
+    "task": "Eat",
+    "status": false
+  },
+  {
+    "id": 5,
+    "task": "Sleep",
+    "status": false
+  },
+  {
+    "id": 6,
+    "task": "Sleep",
+    "status": false
+  },
+  {
+    "id": 7,
+    "task": "Wake up",
+    "status": false
+  }
+]
